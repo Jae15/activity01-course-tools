@@ -63,6 +63,8 @@ Respond to these items:
   select a meme that represents how Week 1 (last week) went for you.
 - Provide a brief explanation for why you selected the meme that you
   did.
+  
+![Alternate image text]([https://someurl/imagelocation/image.png](https://www.memesmonkey.com/topic/grad+school#&gid=1&pid=14))
 
 ## What is next?
 
