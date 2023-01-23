@@ -64,8 +64,6 @@ Respond to these items:
 - Provide a brief explanation for why you selected the meme that you
   did.
   
-![Alternate image text]([https://someurl/imagelocation/image.png](https://www.memesmonkey.com/topic/grad+school#&gid=1&pid=14))
-
 ## What is next?
 
 So far our workflow is:
